@@ -25,10 +25,13 @@ Agora iremos desenvolver uma classe de exemplo que usufruirá desse recurso.
 
 .. code:: php
 
-   class Example {
-      use \Cajudev\GetterSetterAccessor;
+   use Cajudev\GetterSetter;
+   use Cajudev\GetterSetterAccessor;
 
-      /** @GetterSetter(boolean) */
+   class Example {
+      use GetterSetterAccessor;
+
+      #[GetterSetter('boolean')]
       private $bool;
    }
 

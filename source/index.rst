@@ -17,9 +17,6 @@ Bem Vindo ao Getter & Setter
 .. image:: https://img.shields.io/github/license/cajudev/getter-setter.svg
    :target: https://raw.githubusercontent.com/cajudev/getter-setter/master/LICENSE
 
-.. image:: https://img.shields.io/travis/cajudev/getter-setter.svg
-   :target: https://travis-ci.org/cajudev/getter-setter
-
 .. image:: https://coveralls.io/repos/github/cajudev/getter-setter/badge.svg?branch=master
    :target: https://coveralls.io/github/cajudev/getter-setter
 
